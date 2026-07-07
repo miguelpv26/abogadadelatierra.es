@@ -1,0 +1,9 @@
+{
+  "name": "abogadadelatierra",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Abogada de la Tierra — Lucía Rico González. Static site.",
+  "scripts": {
+    "build": "node scripts/build.js"
+  }
+}

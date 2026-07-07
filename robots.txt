@@ -1,0 +1,5 @@
+# https://abogadadelatierra.es/
+User-agent: *
+Allow: /
+
+Sitemap: https://abogadadelatierra.es/sitemap.xml
